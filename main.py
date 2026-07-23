@@ -1,5 +1,5 @@
 def main():
-    print("Hello from monitoramento-reator!")
+    print("Olá desde monitoramento-reator!")
 
 
 if __name__ == "__main__":
